@@ -1,0 +1,91 @@
+V -t * -v 1.0a5 -a 0
+A -t * -n 1 -p 0 -o 0x7fffffff -c 30 -a 1
+A -t * -h 1 -m 1073741823 -s 0
+n -t * -a 0 -s 0 -S UP -v circle -c black -i black
+n -t * -a 1 -s 1 -S UP -v circle -c black -i black
+n -t * -a 2 -s 2 -S UP -v circle -c black -i black
+l -t * -s 0 -d 1 -S UP -r 1000000 -D 0.01 -c black
+l -t * -s 1 -d 2 -S UP -r 512000 -D 0.01 -c black
++ -t 4.5 -s 0 -d 1 -p cbr -e 500 -c 0 -i 0 -a 0 -x {0.0 2.0 0 ------- null}
+- -t 4.5 -s 0 -d 1 -p cbr -e 500 -c 0 -i 0 -a 0 -x {0.0 2.0 0 ------- null}
+h -t 4.5 -s 0 -d 1 -p cbr -e 500 -c 0 -i 0 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.514 -s 0 -d 1 -p cbr -e 500 -c 0 -i 0 -a 0 -x {0.0 2.0 0 ------- null}
++ -t 4.514 -s 1 -d 2 -p cbr -e 500 -c 0 -i 0 -a 0 -x {0.0 2.0 0 ------- null}
+- -t 4.514 -s 1 -d 2 -p cbr -e 500 -c 0 -i 0 -a 0 -x {0.0 2.0 0 ------- null}
+h -t 4.514 -s 1 -d 2 -p cbr -e 500 -c 0 -i 0 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.5318125 -s 1 -d 2 -p cbr -e 500 -c 0 -i 0 -a 0 -x {0.0 2.0 0 ------- null}
++ -t 4.55 -s 0 -d 1 -p cbr -e 500 -c 0 -i 1 -a 0 -x {0.0 2.0 1 ------- null}
+- -t 4.55 -s 0 -d 1 -p cbr -e 500 -c 0 -i 1 -a 0 -x {0.0 2.0 1 ------- null}
+h -t 4.55 -s 0 -d 1 -p cbr -e 500 -c 0 -i 1 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.564 -s 0 -d 1 -p cbr -e 500 -c 0 -i 1 -a 0 -x {0.0 2.0 1 ------- null}
++ -t 4.564 -s 1 -d 2 -p cbr -e 500 -c 0 -i 1 -a 0 -x {0.0 2.0 1 ------- null}
+- -t 4.564 -s 1 -d 2 -p cbr -e 500 -c 0 -i 1 -a 0 -x {0.0 2.0 1 ------- null}
+h -t 4.564 -s 1 -d 2 -p cbr -e 500 -c 0 -i 1 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.5818125 -s 1 -d 2 -p cbr -e 500 -c 0 -i 1 -a 0 -x {0.0 2.0 1 ------- null}
++ -t 4.6 -s 0 -d 1 -p cbr -e 500 -c 0 -i 2 -a 0 -x {0.0 2.0 2 ------- null}
+- -t 4.6 -s 0 -d 1 -p cbr -e 500 -c 0 -i 2 -a 0 -x {0.0 2.0 2 ------- null}
+h -t 4.6 -s 0 -d 1 -p cbr -e 500 -c 0 -i 2 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.614 -s 0 -d 1 -p cbr -e 500 -c 0 -i 2 -a 0 -x {0.0 2.0 2 ------- null}
++ -t 4.614 -s 1 -d 2 -p cbr -e 500 -c 0 -i 2 -a 0 -x {0.0 2.0 2 ------- null}
+- -t 4.614 -s 1 -d 2 -p cbr -e 500 -c 0 -i 2 -a 0 -x {0.0 2.0 2 ------- null}
+h -t 4.614 -s 1 -d 2 -p cbr -e 500 -c 0 -i 2 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.6318125 -s 1 -d 2 -p cbr -e 500 -c 0 -i 2 -a 0 -x {0.0 2.0 2 ------- null}
++ -t 4.65 -s 0 -d 1 -p cbr -e 500 -c 0 -i 3 -a 0 -x {0.0 2.0 3 ------- null}
+- -t 4.65 -s 0 -d 1 -p cbr -e 500 -c 0 -i 3 -a 0 -x {0.0 2.0 3 ------- null}
+h -t 4.65 -s 0 -d 1 -p cbr -e 500 -c 0 -i 3 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.664 -s 0 -d 1 -p cbr -e 500 -c 0 -i 3 -a 0 -x {0.0 2.0 3 ------- null}
++ -t 4.664 -s 1 -d 2 -p cbr -e 500 -c 0 -i 3 -a 0 -x {0.0 2.0 3 ------- null}
+- -t 4.664 -s 1 -d 2 -p cbr -e 500 -c 0 -i 3 -a 0 -x {0.0 2.0 3 ------- null}
+h -t 4.664 -s 1 -d 2 -p cbr -e 500 -c 0 -i 3 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.6818125 -s 1 -d 2 -p cbr -e 500 -c 0 -i 3 -a 0 -x {0.0 2.0 3 ------- null}
++ -t 4.7 -s 0 -d 1 -p cbr -e 500 -c 0 -i 4 -a 0 -x {0.0 2.0 4 ------- null}
+- -t 4.7 -s 0 -d 1 -p cbr -e 500 -c 0 -i 4 -a 0 -x {0.0 2.0 4 ------- null}
+h -t 4.7 -s 0 -d 1 -p cbr -e 500 -c 0 -i 4 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.714 -s 0 -d 1 -p cbr -e 500 -c 0 -i 4 -a 0 -x {0.0 2.0 4 ------- null}
++ -t 4.714 -s 1 -d 2 -p cbr -e 500 -c 0 -i 4 -a 0 -x {0.0 2.0 4 ------- null}
+- -t 4.714 -s 1 -d 2 -p cbr -e 500 -c 0 -i 4 -a 0 -x {0.0 2.0 4 ------- null}
+h -t 4.714 -s 1 -d 2 -p cbr -e 500 -c 0 -i 4 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.7318125 -s 1 -d 2 -p cbr -e 500 -c 0 -i 4 -a 0 -x {0.0 2.0 4 ------- null}
++ -t 4.75 -s 0 -d 1 -p cbr -e 500 -c 0 -i 5 -a 0 -x {0.0 2.0 5 ------- null}
+- -t 4.75 -s 0 -d 1 -p cbr -e 500 -c 0 -i 5 -a 0 -x {0.0 2.0 5 ------- null}
+h -t 4.75 -s 0 -d 1 -p cbr -e 500 -c 0 -i 5 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.764 -s 0 -d 1 -p cbr -e 500 -c 0 -i 5 -a 0 -x {0.0 2.0 5 ------- null}
++ -t 4.764 -s 1 -d 2 -p cbr -e 500 -c 0 -i 5 -a 0 -x {0.0 2.0 5 ------- null}
+- -t 4.764 -s 1 -d 2 -p cbr -e 500 -c 0 -i 5 -a 0 -x {0.0 2.0 5 ------- null}
+h -t 4.764 -s 1 -d 2 -p cbr -e 500 -c 0 -i 5 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.7818125 -s 1 -d 2 -p cbr -e 500 -c 0 -i 5 -a 0 -x {0.0 2.0 5 ------- null}
++ -t 4.8 -s 0 -d 1 -p cbr -e 500 -c 0 -i 6 -a 0 -x {0.0 2.0 6 ------- null}
+- -t 4.8 -s 0 -d 1 -p cbr -e 500 -c 0 -i 6 -a 0 -x {0.0 2.0 6 ------- null}
+h -t 4.8 -s 0 -d 1 -p cbr -e 500 -c 0 -i 6 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.814 -s 0 -d 1 -p cbr -e 500 -c 0 -i 6 -a 0 -x {0.0 2.0 6 ------- null}
++ -t 4.814 -s 1 -d 2 -p cbr -e 500 -c 0 -i 6 -a 0 -x {0.0 2.0 6 ------- null}
+- -t 4.814 -s 1 -d 2 -p cbr -e 500 -c 0 -i 6 -a 0 -x {0.0 2.0 6 ------- null}
+h -t 4.814 -s 1 -d 2 -p cbr -e 500 -c 0 -i 6 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.8318125 -s 1 -d 2 -p cbr -e 500 -c 0 -i 6 -a 0 -x {0.0 2.0 6 ------- null}
++ -t 4.85 -s 0 -d 1 -p cbr -e 500 -c 0 -i 7 -a 0 -x {0.0 2.0 7 ------- null}
+- -t 4.85 -s 0 -d 1 -p cbr -e 500 -c 0 -i 7 -a 0 -x {0.0 2.0 7 ------- null}
+h -t 4.85 -s 0 -d 1 -p cbr -e 500 -c 0 -i 7 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.864 -s 0 -d 1 -p cbr -e 500 -c 0 -i 7 -a 0 -x {0.0 2.0 7 ------- null}
++ -t 4.864 -s 1 -d 2 -p cbr -e 500 -c 0 -i 7 -a 0 -x {0.0 2.0 7 ------- null}
+- -t 4.864 -s 1 -d 2 -p cbr -e 500 -c 0 -i 7 -a 0 -x {0.0 2.0 7 ------- null}
+h -t 4.864 -s 1 -d 2 -p cbr -e 500 -c 0 -i 7 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.8818125 -s 1 -d 2 -p cbr -e 500 -c 0 -i 7 -a 0 -x {0.0 2.0 7 ------- null}
++ -t 4.9 -s 0 -d 1 -p cbr -e 500 -c 0 -i 8 -a 0 -x {0.0 2.0 8 ------- null}
+- -t 4.9 -s 0 -d 1 -p cbr -e 500 -c 0 -i 8 -a 0 -x {0.0 2.0 8 ------- null}
+h -t 4.9 -s 0 -d 1 -p cbr -e 500 -c 0 -i 8 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.914 -s 0 -d 1 -p cbr -e 500 -c 0 -i 8 -a 0 -x {0.0 2.0 8 ------- null}
++ -t 4.914 -s 1 -d 2 -p cbr -e 500 -c 0 -i 8 -a 0 -x {0.0 2.0 8 ------- null}
+- -t 4.914 -s 1 -d 2 -p cbr -e 500 -c 0 -i 8 -a 0 -x {0.0 2.0 8 ------- null}
+h -t 4.914 -s 1 -d 2 -p cbr -e 500 -c 0 -i 8 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.9318125 -s 1 -d 2 -p cbr -e 500 -c 0 -i 8 -a 0 -x {0.0 2.0 8 ------- null}
++ -t 4.95 -s 0 -d 1 -p cbr -e 500 -c 0 -i 9 -a 0 -x {0.0 2.0 9 ------- null}
+- -t 4.95 -s 0 -d 1 -p cbr -e 500 -c 0 -i 9 -a 0 -x {0.0 2.0 9 ------- null}
+h -t 4.95 -s 0 -d 1 -p cbr -e 500 -c 0 -i 9 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.964 -s 0 -d 1 -p cbr -e 500 -c 0 -i 9 -a 0 -x {0.0 2.0 9 ------- null}
++ -t 4.964 -s 1 -d 2 -p cbr -e 500 -c 0 -i 9 -a 0 -x {0.0 2.0 9 ------- null}
+- -t 4.964 -s 1 -d 2 -p cbr -e 500 -c 0 -i 9 -a 0 -x {0.0 2.0 9 ------- null}
+h -t 4.964 -s 1 -d 2 -p cbr -e 500 -c 0 -i 9 -a 0 -x {0.0 2.0 -1 ------- null}
+r -t 4.9818125 -s 1 -d 2 -p cbr -e 500 -c 0 -i 9 -a 0 -x {0.0 2.0 9 ------- null}
++ -t 5 -s 0 -d 1 -p cbr -e 500 -c 0 -i 10 -a 0 -x {0.0 2.0 10 ------- null}
+- -t 5 -s 0 -d 1 -p cbr -e 500 -c 0 -i 10 -a 0 -x {0.0 2.0 10 ------- null}
+h -t 5 -s 0 -d 1 -p cbr -e 500 -c 0 -i 10 -a 0 -x {0.0 2.0 -1 ------- null}
